@@ -28,3 +28,8 @@
 .star, .line{
     display: inline-block;
 }
+
+.row img{
+    width: 100%;
+    height: 100%;
+}
