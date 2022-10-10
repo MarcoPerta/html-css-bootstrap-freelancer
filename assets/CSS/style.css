@@ -1,0 +1,30 @@
+.bg-blue{
+    background: #38598b;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.bg-greenlight{
+    background: #1ABC9C;
+}
+
+.container img{
+    width: 300px;
+    height: 300px;
+}
+
+.line{
+    height: 4px;
+    width: 50px;
+    vertical-align: middle;
+}
+
+.fa-star{
+    font-size: 15px;
+}
+
+.star, .line{
+    display: inline-block;
+}
